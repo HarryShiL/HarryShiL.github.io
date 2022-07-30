@@ -1,8 +1,8 @@
-<!--<body>
+<body>
 <div style="float:right;width:200px">
 <img src="leishi_s.jpg">
 </div>
-</body>-->
+</body>
 Staff Research And Development Engineer, Baidu Inc.
 
 **Email:** <a href="mailto:harryshi.cs@gmail.com">harryshi.cs@gmail.com</a>
