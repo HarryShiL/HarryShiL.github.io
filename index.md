@@ -5,9 +5,11 @@
 </body>-->
 Staff Research And Development Engineer, Baidu Inc.
 
-<b>Email:</b> <a href="mailto:harryshi.cs@gmail.com">harryshi.cs@gmail.com</a>
+**Email:** <a href="mailto:harryshi.cs@gmail.com">harryshi.cs@gmail.com</a>
 
-<b>Research Interests:</b> Recommender Systems, Information Retrieval, and Machine Learning
+**Research Interests:** Recommender Systems, Information Retrieval, and Machine Learning
+
+<font color=bule>Baidu's video search team is hiring, please drop me a message if interested.</font>
 
 ## News
 [Oct 2021] One paper about personalized video search was accepted by WSDM 2022.
