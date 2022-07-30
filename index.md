@@ -44,7 +44,7 @@ Liang Du, Peng Zhou, **Lei Shi**, Hanmo Wang, Mingyu Fan, Wenjian Wang and Yi-Do
 									
 Hanmo Wang, Liang Du, Peng Zhou, **Lei Shi** and Yi-Dong Shen. Convex Batch Mode Active Sampling via alpha-relative Pearson Divergence. The Twenty-Nineth AAAI Conference on Artificial Intelligence (**AAAI-15**), Austin, Texas, USA, January 2015.
 									
-###Workshop Papers
+### Workshop Papers
 Yuyu Zhang, Liang Pang, **Lei Shi** and Bin Wang, Large Scale Purchase Prediction with Historical User Actions on B2C Online Retail Platform. 2nd Workshop on Large Scale Recommender Systems, 8th ACM Conference on Recommender System (**RecSys 2014**).<a href="https://arxiv.org/pdf/1408.6515.pdf">[arXiv]</a>
 									
 Dilin Wang, **Lei Shi** and Jianwen Cao. Fast Algorithm for Approximate k-Nearest Neighbor Graph Construction. Data Mining in Networks workshop, the 13th IEEE International Conference on Data Mining (**ICDM 2013**), TX, USA, December 7-10, 2013.
