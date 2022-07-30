@@ -27,7 +27,7 @@ Nov 2011 - Apr 2012, SDE Intern, <b>Search Technology Center, Microsoft</b>
 
 ## Publications
 ### Conference & Journal Papers
-Li Zhang, ***Lei Shi***, Jiashu Zhao, Juan Yang, Tianshu Lyu, Dawei Yin and Haiping Lu. A GNN-based Multi-task Learning Framework for Personalized Video Search. In Proceedings of the Fifteenth International Conference on Web Search and Data Mining (<b>WSDM 2022</b>), February 2022.
+Li Zhang, **Lei Shi**, Jiashu Zhao, Juan Yang, Tianshu Lyu, Dawei Yin and Haiping Lu. A GNN-based Multi-task Learning Framework for Personalized Video Search. In Proceedings of the Fifteenth International Conference on Web Search and Data Mining (<b>WSDM 2022</b>), February 2022.
 
 Runwu Zhou, Xiaojun Chang, <b>Lei Shi</b>, Yi-Dong Shen, Yi Yang and Feiping Nie. Person Reidentification via Multi-Feature Fusion With Adaptive Graph Learning. IEEE Transactions on Neural Networks and Learning Systems (<b>TNNLS</b>) 31 (5): 1592-1601.
 
