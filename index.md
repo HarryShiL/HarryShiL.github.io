@@ -3,6 +3,7 @@
 <img src="leishi_s.jpg">
 </div>
 </body>
+
 Staff Research And Development Engineer, Baidu Inc.
 
 **Email:** <a href="mailto:harryshi.cs@gmail.com">harryshi.cs@gmail.com</a>
