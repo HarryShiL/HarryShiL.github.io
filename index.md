@@ -15,9 +15,9 @@ Staff Research And Development Engineer, Baidu Inc.
 [Oct 2021] One paper about personalized video search was accepted by WSDM 2022.
 
 ## Education
-Sep 2012 - Jun 2018, Ph.D. in Computer Science, <a href="http://english.cas.cn" rel="nofollow"><b>Chinese Academy of Sciences</b></a>, Beijing, China
+Sep 2012 - Jun 2018, Ph.D. in Computer Science, <a href="http://english.is.cas.cn/" rel="nofollow">Institute of Software</a>, <a href="http://english.cas.cn" rel="nofollow"><b>Chinese Academy of Sciences</b></a>
 
-Sep 2008 - Jun 2012, B.Eng. in Computer Science, <a href="http://en.whu.edu.cn" rel="nofollow"><b>Wuhan University</b></a>, Wuhan, China
+Sep 2008 - Jun 2012, B.Eng. in Computer Science, <a href="http://en.whu.edu.cn" rel="nofollow"><b>Wuhan University</b></a>
 
 ## Experience
 Apr 2013 - Jan 2014, Research Intern, <a href="http://research.microsoft.com/en-us/labs/asia/" rel="nofollow"><b>Microsoft Research Asia</b></a>
