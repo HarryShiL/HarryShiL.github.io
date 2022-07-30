@@ -9,7 +9,6 @@ Staff Research And Development Engineer, Baidu Inc.
 
 **Research Interests:** Recommender Systems, Information Retrieval, and Machine Learning
 
-/* <font color=blue>Baidu's video search team is hiring, please drop me a message if interested.</font> */
 
 ## News
 [Oct 2021] One paper about personalized video search was accepted by WSDM 2022.
