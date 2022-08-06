@@ -42,7 +42,7 @@ Staff Research And Development Engineer, Baidu Inc.
 										
 * **Lei Shi**, Shuming Shi, Chin-Yew Lin, Yi-Dong Shen and Yong Rui. Unsupervised Template Mining for Semantic Category Understanding. In Proceedings of the 2014 Conference on Empirical Methods in Natural Language Processing (**EMNLP 2014**), Doha, Qatar, October 26-28, 2014.<a href="./pubs/Template_talk_EMNLP14.pdf"> [Slides]</a>
 									
-* Peng Zhou, Liang Du, **Lei Shi**, Hanmo Wang and Yi-Dong Shen. Recovery of Corrupted Multiple Kernels for Clustering. The Twenty-Fourth International Joint Conference on Artificial Intelligence (**IJCAI 15**) , Buenos Aires, Argentina, July 2015.</li>
+* Peng Zhou, Liang Du, **Lei Shi**, Hanmo Wang and Yi-Dong Shen. Recovery of Corrupted Multiple Kernels for Clustering. The Twenty-Fourth International Joint Conference on Artificial Intelligence (**IJCAI 15**) , Buenos Aires, Argentina, July 2015.
 									
 * Liang Du, Peng Zhou, **Lei Shi**, Hanmo Wang, Mingyu Fan, Wenjian Wang and Yi-Dong Shen. Robust Multiple Kernel K-means using L2-1-norm. The Twenty-Fourth International Joint Conference on Artificial Intelligence (**IJCAI 15**) , Buenos Aires, Argentina, July 2015.
 									
