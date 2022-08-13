@@ -22,7 +22,7 @@ Staff Research And Development Engineer, Baidu Inc.
 ## Experience
 * July 2018 - present, Staff R&D Engineer, <a href="http://searchscience.baidu.com/" rel="nofollow">Search Science Team</a>, Baidu Inc.
 
-* Apr 2013 - Jan 2014, Research Intern, <a href="http://research.microsoft.com/en-us/labs/asia/" rel="nofollow"><b>Microsoft Research Asia</b></a>, Work with Dr. Shuming Shi
+* Apr 2013 - Jan 2014, Research Intern, <a href="http://research.microsoft.com/en-us/labs/asia/" rel="nofollow"><b>Microsoft Research Asia</b></a>
 
 * Nov 2011 - Apr 2012, SDE Intern, <b>Search Technology Center, Microsoft</b>
 
