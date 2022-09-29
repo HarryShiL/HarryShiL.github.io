@@ -1,4 +1,5 @@
 <img src="leishi_s.jpg">
+<div style="float:right;width:400px">
 
 Staff Research And Development Engineer, Baidu Inc.
 
