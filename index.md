@@ -1,5 +1,4 @@
 <img src="leishi_s.jpg">
-<div style="float:right;width:400px">
 
 Staff Research And Development Engineer, Baidu Inc.
 
@@ -74,5 +73,3 @@ Staff Research And Development Engineer, Baidu Inc.
 
 ## Professional Service
 Reviewer: ACM TOIS, IEEE TKDE, IJCAI'16-17, AAAI'16-18, KDD'14-16, PAKDD'14
-
-</div>
