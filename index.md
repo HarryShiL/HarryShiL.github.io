@@ -1,5 +1,5 @@
 <body>
-<div style="float:right;width:200px">
+<div style="float:right;width:400px">
 <img src="leishi_s.jpg">
 </div>
 </body>
