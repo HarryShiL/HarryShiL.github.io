@@ -65,4 +65,4 @@ Please contact me via <a href="mailto:harryshi.cs@gmail.com">harryshi.cs@gmail.c
 * Academic Excellence Scholarship in Wuhan University (2009, 2010, and 2011)
 
 ## Professional Service
-Reviewer: ACM TOIS, IEEE TKDE, IJCAI'16-17, AAAI'16-18, KDD'14-16, PAKDD'14
+Reviewer: ACM TOIS, IEEE TKDE, IJCAI, AAAI, KDD, PAKDD
