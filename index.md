@@ -17,7 +17,7 @@ Please contact me via <a href="mailto:harryshi.cs@gmail.com">harryshi.cs@gmail.c
 * Sep 2008 - Jun 2012, B.Eng. in Computer Science, <a href="http://en.whu.edu.cn" rel="nofollow"><b>Wuhan University</b></a>
 
 ## Experience
-* July 2018 - present, Staff R&D Engineer, <a href="http://searchscience.baidu.com/" rel="nofollow">Search Science Team</a>, Baidu Inc.
+* July 2018 - present, Staff Algorithm Engineer, <a href="http://searchscience.baidu.com/" rel="nofollow">Search Science Team</a>, Baidu Inc.
 
 * Apr 2013 - Jan 2014, Research Intern, <a href="http://research.microsoft.com/en-us/labs/asia/" rel="nofollow"><b>Microsoft Research Asia</b></a>
 
