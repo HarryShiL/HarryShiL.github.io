@@ -15,14 +15,11 @@ Please contact me via <a href="mailto:harryshi.cs@gmail.com">harryshi.cs@gmail.c
 
 ## Experience
 * July 2018 - present, Staff Algorithm Engineer, <a href="http://searchscience.baidu.com/" rel="nofollow">Search Science Team</a>, Baidu Inc.
-
 * Apr 2013 - Jan 2014, Research Intern, <a href="http://research.microsoft.com/en-us/labs/asia/" rel="nofollow"><b>Microsoft Research Asia</b></a>
-
 * Nov 2011 - Apr 2012, SDE Intern, <b>Search Technology Center, Microsoft</b>
 
 ## Education
 * Sep 2012 - Jun 2018, Ph.D. in Computer Science, <a href="http://english.is.cas.cn/" rel="nofollow">Institute of Software</a>, <a href="http://english.cas.cn" rel="nofollow"><b>Chinese Academy of Sciences</b></a>
-
 * Sep 2008 - Jun 2012, B.Eng. in Computer Science, <a href="http://en.whu.edu.cn" rel="nofollow"><b>Wuhan University</b></a>
 
 
@@ -55,11 +52,8 @@ Please contact me via <a href="mailto:harryshi.cs@gmail.com">harryshi.cs@gmail.c
 
 ## Contest Awards
 * 5th Place in Mobike Big Data Challenge (2017)
-
 * 7th Place in Alibaba Big Data Contest, Top 10 in 7274 teams (2014)
-
 * 3rd Place in National Computational Advertising Contest (2013)
-
 * 3rd Prize in National Undergraduate Information Security Contest (2011)
 
 ## Selected Honors
