@@ -64,15 +64,10 @@ Please contact me via <a href="mailto:harryshi.cs@gmail.com">harryshi.cs@gmail.c
 
 ## Selected Honors
 * National Scholarship for Ph.D. Students (2016 and 2017)
-
 * IEEE ICDM 2014 Student Travel Award (2014)
-
 * EMNLP 2014 Student Scholarship (2014)
-
 * Outstanding Bachelor Thesis in Hubei Province (2012)
-
 * National Scholarship for Undergraduate Students (2010)
-
 * Academic Excellence Scholarship in Wuhan University (2009, 2010, and 2011)
 
 ## Professional Service
