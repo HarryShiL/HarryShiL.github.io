@@ -11,6 +11,8 @@ Staff Research And Development Engineer, Baidu Inc.
 
 **Research Interests:** Recommender Systems, Information Retrieval, and Machine Learning
 
+Lei is a staff algorithm engineer and a tech lead of the ranking strategy group at Baidu's video search team. Previously, He obtained Ph.D. (2018) in Computer Science from University of Chinese Academy of Sciences and B.E. (2012) from Wuhan University.
+
 
 ## News
 [Oct 2021] One paper about personalized video search was accepted by WSDM 2022.
