@@ -10,9 +10,6 @@ Lei is a staff algorithm engineer and a tech lead of the ranking strategy group 
 
 Please contact me via <a href="mailto:harryshi.cs@gmail.com">harryshi.cs@gmail.com</a>.
 
-<body>
-<div style="float:left;width:1200px">
-
 ## News
 [Oct 2021] One paper about personalized video search was accepted by WSDM 2022.
 
@@ -80,5 +77,3 @@ Please contact me via <a href="mailto:harryshi.cs@gmail.com">harryshi.cs@gmail.c
 
 ## Professional Service
 Reviewer: ACM TOIS, IEEE TKDE, IJCAI'16-17, AAAI'16-18, KDD'14-16, PAKDD'14
-</div>
-</body>
