@@ -1,6 +1,6 @@
 <body>
 <div style="float:right;width:120px">
-<img src="leishi_s.jpg" width=120px height=160px>
+<img src="leishi_s.jpg">
 </div>
 </body>
 
