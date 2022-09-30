@@ -19,8 +19,8 @@ Please contact me via <a href="mailto:harryshi.cs@gmail.com">harryshi.cs@gmail.c
 * Nov 2011 - Apr 2012, SDE Intern, <b>Search Technology Center, Microsoft</b>
 
 ## Education
-* Sep 2012 - Jun 2018, Ph.D. in Computer Science, <a href="http://english.is.cas.cn/" rel="nofollow">Institute of Software</a>, <a href="http://english.cas.cn" rel="nofollow"><b>Chinese Academy of Sciences</b></a>
-* Sep 2008 - Jun 2012, B.Eng. in Computer Science, <a href="http://en.whu.edu.cn" rel="nofollow"><b>Wuhan University</b></a>
+* Ph.D. in Computer Science, <a href="http://english.is.cas.cn/" rel="nofollow">Institute of Software</a>, <a href="http://english.cas.cn" rel="nofollow"><b>Chinese Academy of Sciences</b></a>, 2012.09 - 2018.06
+* B.Eng. in Computer Science, <a href="http://en.whu.edu.cn" rel="nofollow"><b>Wuhan University</b></a>, 2008.09 - 2012.06
 
 
 ## Publications
