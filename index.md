@@ -1,6 +1,7 @@
 <body>
 <div style="float:right;width:120px">
 <img src="leishi_s.jpg" width=120px>
+	Lei is a staff algorithm engineer and a tech lead of the ranking strategy group at Baidu's video search team. Previously, He obtained Ph.D. (2018) in Computer Science from University of Chinese Academy of Sciences and B.E. (2012) from Wuhan University. His research interests include recommender systems, information retrieval, and machine learning.
 </div>
 </body>
 
