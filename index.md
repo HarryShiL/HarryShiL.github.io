@@ -4,12 +4,14 @@
 </div>
 </body>
 
-<body>
-<div style="float:left;width:120px">
+
 
 Lei is a staff algorithm engineer and a tech lead of the ranking strategy group at Baidu's video search team. Previously, He obtained Ph.D. (2018) in Computer Science from University of Chinese Academy of Sciences and B.E. (2012) from Wuhan University. His research interests include recommender systems, information retrieval, and machine learning.
 
 Please contact me via <a href="mailto:harryshi.cs@gmail.com">harryshi.cs@gmail.com</a>.
+
+<body>
+<div style="float:left;width:1200px">
 
 ## News
 [Oct 2021] One paper about personalized video search was accepted by WSDM 2022.
