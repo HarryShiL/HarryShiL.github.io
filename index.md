@@ -1,6 +1,7 @@
 <body>
 <div style="float:right;width:120px">
 <img src="leishi_s.jpg" width=120px>
+Tianjin, 2012
 </div>
 </body>
 
