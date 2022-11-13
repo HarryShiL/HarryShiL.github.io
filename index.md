@@ -11,7 +11,7 @@ Lei is a staff algorithm engineer and a tech lead of the ranking and user behavi
 Please contact me via <a href="mailto:harryshi.cs@gmail.com">harryshi.cs@gmail.com</a>.
 
 ## News
-* Please send me emails with your resume (for internships or FTE positions) if you are interested in working with us. Experiences with machine (incl. but not limited to deep) learning for ranking and large scale user behavior modeling are preferred.
+* Please contact me for internships or FTE positions if you are interested in working with us. Experiences with machine learning for ranking and large scale user behavior modeling are preferred.
 
 ## Experience
 * July 2018 - present, Staff Algorithm Engineer, <a href="http://searchscience.baidu.com/" rel="nofollow">Search Science Team</a>, Baidu Inc.
