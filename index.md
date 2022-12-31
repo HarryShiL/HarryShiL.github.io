@@ -8,10 +8,10 @@
 
 Lei is a staff algorithm engineer and a tech lead of the ranking and user behavior modeling group at Baidu's video search team. Previously, He obtained Ph.D. (2018) in Computer Science from University of Chinese Academy of Sciences and B.E. (2012) from Wuhan University. His research interests include recommender systems, information retrieval, and machine learning.
 
-Please contact me via <a href="mailto:harryshi.cs@gmail.com">harryshi.cs@gmail.com</a>.
+<b>Email：</b> <a href="mailto:harryshi.cs@gmail.com">harryshi.cs@gmail.com</a>.
 
 ## News
-* Please contact me for internships or FTE positions if you are interested in working with us. Experiences with machine learning for ranking and large scale user behavior modeling are preferred.
+* Please send me emails for internships or FTE positions if you are interested in working with us. Experiences with machine learning for ranking and large scale user behavior modeling are preferred.
 
 ## Experience
 * July 2018 - present, Staff Algorithm Engineer, <a href="http://searchscience.baidu.com/" rel="nofollow">Search Science Team</a>, Baidu Inc.
