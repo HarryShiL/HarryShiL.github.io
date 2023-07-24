@@ -14,7 +14,7 @@ His research interests include recommender systems, information retrieval, and m
 
 ## News
 * Our team is hiring！Please drop me a message if interested.
-* We have a few positions for research interns. Please contact me if you are interesed in LLM for Rec or IR.
+* We have a few positions for research interns. Please contact me if you are interested in LLM for Rec or IR.
 
 ## Experience
 * July 2018 - present, Staff Algorithm Engineer, Baidu Inc.
