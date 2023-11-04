@@ -6,7 +6,7 @@
 
 
 
-Lei Shi is a staff algorithm engineer and the tech lead of the ranking and user behavior modeling group at Baidu's video search. Previously, He obtained Ph.D. (2018) in Computer Science from University of Chinese Academy of Sciences and B.E. (2012) from Wuhan University. 
+Lei Shi is a staff algorithm engineer at Baidu Inc.. Previously, He obtained Ph.D. (2018) in Computer Science from University of Chinese Academy of Sciences and B.E. (2012) from Wuhan University. 
 
 His research interests include recommender systems, information retrieval, and machine learning.
 
