@@ -16,7 +16,7 @@ His research interests include recommender systems, information retrieval, and m
 * Our team is hiring！Please drop me a message if interested.
 * We have a few positions for research interns. Please contact me if you are interested in LLM for Rec or IR.
 
-## Experience
+## Work Experience
 * July 2018 - present, Staff Algorithm Engineer, Baidu Inc.
 * Apr 2013 - Jan 2014, Research Intern, <a href="http://research.microsoft.com/en-us/labs/asia/" rel="nofollow"><b>Microsoft Research Asia</b></a>
 * Nov 2011 - Apr 2012, SDE Intern, <b>Search Technology Center, Microsoft</b>
