@@ -23,7 +23,7 @@ His research interests include recommender systems, information retrieval, and m
 
 ## Education
 * Sep 2012 - Jun 2018, Ph.D., <a href="http://english.is.cas.cn/" rel="nofollow">Institute of Software</a>, <a href="http://english.cas.cn" rel="nofollow"><b>Chinese Academy of Sciences</b></a>
-* Sep 2008 - Jun 2012, B.Eng., <a href="http://en.whu.edu.cn" rel="nofollow"><b>Wuhan University</b></a>
+* Sep 2008 - Jun 2012, B.Eng., <a href="https://cs.whu.edu.cn/" rel="nofollow">School of Computer</a>, <a href="http://en.whu.edu.cn" rel="nofollow"><b>Wuhan University</b></a>
 
 
 ## Publications
