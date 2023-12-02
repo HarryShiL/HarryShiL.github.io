@@ -22,8 +22,8 @@ His research interests include recommender systems, information retrieval, and m
 * Nov 2011 - Apr 2012, SDE Intern, <b>Search Technology Center, Microsoft</b>
 
 ## Education
-* Sep 2012 - Jun 2018, Ph.D. in Computer Science, <a href="http://english.is.cas.cn/" rel="nofollow">Institute of Software</a>, <a href="http://english.cas.cn" rel="nofollow"><b>Chinese Academy of Sciences</b></a>
-* Sep 2008 - Jun 2012, B.Eng. in Computer Science, <a href="http://en.whu.edu.cn" rel="nofollow"><b>Wuhan University</b></a>
+* Sep 2012 - Jun 2018, Ph.D., <a href="http://english.is.cas.cn/" rel="nofollow">Institute of Software</a>, <a href="http://english.cas.cn" rel="nofollow"><b>Chinese Academy of Sciences</b></a>
+* Sep 2008 - Jun 2012, B.Eng., <a href="http://en.whu.edu.cn" rel="nofollow"><b>Wuhan University</b></a>
 
 
 ## Publications
